@@ -1,6 +1,6 @@
------------------------------------------------------------
-Lablup Just model it 대회 참가 [GTAMON 팀]
------------------------------------------------------------
+
+# Lablup Just model it 대회 참가 [GTAMON 팀]
+
 
 제목: 커뮤니티 글을 분석해서 비트코인 가격 변화 예측하기
 
@@ -26,14 +26,18 @@ Lablup Just model it 대회 참가 [GTAMON 팀]
      Reddit submission title data (2011.1.1 - 2017.12.31), score >= 10
      Bitcoin Daily Price (Bitstamp Exchange, 2011.9.13 - 2017.12.31)
 
-결과: 미완성 
+결과: 
 
-추가로 할 일: 
+     미완성
+     Step 1 - Step 4 완료
+     마지막 Step 5 보수 중.. 
 
 키워드:  
 
-     Bitcoin, Reddit, Online Word2vec, Keyword Netword, Graph Convolutional Network, Recurrent Neural Network
+     Bitcoin, Reddit, Online Word2vec, Keyword Network, Graph Convolutional Network, Recurrent Neural Network
 
+
+# Step
 
 :whale: Step 1. [1_w2v_training.ipynb]
           
