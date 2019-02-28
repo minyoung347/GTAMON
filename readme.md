@@ -30,7 +30,14 @@
 
      미완성
      Step 1 - Step 4 완료
-     마지막 Step 5 보수 중.. 
+     Word2vec online learning 완료, 키워드 네트워크 구성 및 특징 추출 완료
+     마지막 Step 5  GCN-RNN end-to-end 구현
+     지금은 짧은 구간의 데이터만 학습 가능
+     
+     앞으로 할 일: 전체 구간으로 확장 시키고 accuracy를 구해야 함
+                 Word2vec 다양한 하이퍼파라미터 시도
+                 LSTM, GRU, Attention, Two-state RNN 등 다양한 예측 모델 시도 (현재는 Vanilla RNN)
+
 
 키워드:  
 
