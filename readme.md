@@ -109,17 +109,12 @@
            Output: Loss function, Accuracy of prediction
           
           
-:whale: Step 1-1. [1-1_transition_bitcoin.ipynb]
+:whale: Step 6. [6_transition_bitcoin.ipynb]
            
            Plot time_series of similarity between the consecutive embedded vectors of 'bitcoin'
            Check the embedded vector of any keyword
            
-           
-:whale: Step 4-1. [4-1_extract_feature_oneday.R]
-                                  
-           Same input and output with [extract_feature.R]
-           not using multiprocessing
-           only extract features on one day
+
 
 
 # 감사합니다.
