@@ -1,6 +1,6 @@
 
 # Lablup Just model it 대회 참가 [GTAMON 팀]
-
+https://github.com/SeoHyeonDeok/GTAMON-Lablup/
 
 제목: 커뮤니티 글을 분석해서 비트코인 가격 변화 예측하기
 
